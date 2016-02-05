@@ -113,7 +113,6 @@ int main()
 
 	string playGame,
 		playAgain;
-	bool exitProgram = false;
 	int randNum,
 		userAnswer;
 	randNum = time(NULL);
